@@ -1,4 +1,8 @@
 # Python_Weather_App
 My little Weather App
 
-This app is my first attempt to get HTML and Python to talk to each other, just using basic python and basic html to allow for user input for city name, a drop down for multiple locations with the same name for selection.
+## Setup
+1. Clone the repo.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Create a `.env` file and add your `API_KEY`.
+4. Run `python app.py`.
