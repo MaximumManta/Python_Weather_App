@@ -77,3 +77,4 @@ def get_weather_by_coords():
 
 
 if __name__ == '__main__':
+    app.run(debug=True)
